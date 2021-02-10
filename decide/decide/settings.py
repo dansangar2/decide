@@ -70,7 +70,7 @@ MODULES = [
     'voting',
 ]
 
-BASEURL = 'http://ejercicio-0-dansangar2-travis.herokuapp.com'
+BASEURL = 'http://ejercicio-0-dansangar2.herokuapp.com'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
